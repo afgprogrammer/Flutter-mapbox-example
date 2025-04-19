@@ -14,10 +14,6 @@ A complete open-source Flutter project demonstrating how to integrate and use Ma
 4. Run `flutter run` to launch on your device or simulator.
 
 ## Screenshots
-Place your screenshots here:
-1. *Main Map Screen*
-2. *Marker Demonstration*
-3. *Any other important view*
 
 ## Contributing
 Feel free to submit issues and pull requests. Contributions are welcome!
