@@ -19,5 +19,3 @@ A complete open-source Flutter project demonstrating how to integrate and use Ma
 Feel free to submit issues and pull requests. Contributions are welcome!
 
 ---
-
-**Thank you, Flutter community, for the past 6 years of support and collaboration. Your enthusiasm and dedication make sharing projects like this worthwhile!**
