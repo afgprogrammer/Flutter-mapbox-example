@@ -15,6 +15,12 @@ A complete open-source Flutter project demonstrating how to integrate and use Ma
 
 ## Screenshots
 
+ | Page | Page
+|---|---|
+| <img alt="Flutter Mapbox Example" src="assets/screenshots/one.png" width="400px" /> | 
+
+
+
 ## Contributing
 Feel free to submit issues and pull requests. Contributions are welcome!
 
